@@ -1,0 +1,49 @@
+{'fixed': [[49369], [55517], [55501], [55469], [53421], [6229], [49373], [53469], [53453]], 'cycle': [[38993, 4177, 4309, 2269, 34909]]}
+*** fixed ***
+[49369]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 1 0 1 0 0 0 0 0 0 1 1]]
+
+[55517]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 1 1 1 0 1 1 0 0 0 0 1 1 1]]
+
+[55501]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 0 1 1 1 1 0 1 1 0 0 0 0 1 1 1]]
+
+[55469]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 0 0 1 1 1 0 1 1 0 0 1 0 1 1 1]]
+
+[53421]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 1]]
+
+[6229]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 1 0 1 0 0 1 0 0 0 0 1 0 0]]
+
+[49373]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 1]]
+
+[53469]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 1 0 1 1 0 0 0 0 1 1 1]]
+
+[53453]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 0 1 0 1 1 0 1 1 0 0 0 0 1 1 1]]
+
+
+*** cyclic ***
+[38993, 4177, 4309, 2269, 34909]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0]
+ [0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0]
+ [0 1 1 0 0 1 0 1 1 0 0 0 0 1 0 0]
+ [0 1 1 1 0 1 0 1 0 0 0 0 0 1 1 0]
+ [0 1 1 1 1 1 0 0 0 0 0 0 0 1 1 0]]
+
+

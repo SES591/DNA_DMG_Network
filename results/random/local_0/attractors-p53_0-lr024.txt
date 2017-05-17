@@ -1,0 +1,93 @@
+{'fixed': [[58458], [58456], [15057], [32404], [31892], [32420], [32401], [31908], [31889], [32409], [31897], [14545], [19685], [2276], [19684], [19689]], 'cycle': [[28313, 32441, 32393], [27801, 31929, 31881], [32425, 28297, 28345], [31913, 27785, 27833]]}
+*** fixed ***
+[58458]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 1 0 1 0 1 0 0 0 0 0 1 0 1 1]]
+
+[58456]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 1 0 1 0 0 0 0 0 0 0 1 0 1 1]]
+
+[15057]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 1 0 1 0 1 1 1 0 0 1 0 0 0]]
+
+[32404]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 0 0 1 1 1 0 0 1 1 0 1]]
+
+[31892]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 0 0 1 1 0 0 0 1 1 0 1]]
+
+[32420]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 0 1 0 0 0 1 1 1 0 1 1 1 0 1]]
+
+[32401]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 1 0 1 1 1 0 0 1 0 0 1]]
+
+[31908]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 0 1 0 0 0 1 1 0 0 1 1 1 0 1]]
+
+[31889]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 1 0 1 1 0 0 0 1 0 0 1]]
+
+[32409]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 1 0 1 1 1 0 0 1 0 1 1]]
+
+[31897]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 1 0 1 1 0 0 0 1 0 1 1]]
+
+[14545]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 1 0 1 0 1 1 0 0 0 1 0 0 0]]
+
+[19685]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 1 1 0 1 0 1 0 0 0 1 0 1 0 1]]
+
+[2276]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 0 1 1 0 0 0 1 0 0 0 1 0 1 0 0]]
+
+[19684]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 1 1 0 0 0 1 0 0 0 1 0 1 0 1]]
+
+[19689]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 1 1 0 1 0 1 0 0 0 1 0 0 1 1]]
+
+
+*** cyclic ***
+[28313, 32441, 32393]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 1 0 1 0 1 0 0 1 0 1 1]
+ [1 1 0 1 0 1 0 1 1 1 0 1 1 0 1 1]
+ [1 0 0 1 0 1 0 1 1 1 0 0 1 0 1 1]]
+
+[27801, 31929, 31881]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 1 0 1 0 0 0 0 1 0 1 1]
+ [1 1 0 1 0 1 0 1 1 0 0 1 1 0 1 1]
+ [1 0 0 1 0 1 0 1 1 0 0 0 1 0 1 1]]
+
+[32425, 28297, 28345]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 0 1 0 1 0 1 1 1 0 1 1 0 1 1]
+ [1 0 0 1 0 1 0 1 0 1 0 0 1 0 1 1]
+ [1 1 0 1 0 1 0 1 0 1 0 1 1 0 1 1]]
+
+[31913, 27785, 27833]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 0 1 0 1 0 1 1 0 0 1 1 0 1 1]
+ [1 0 0 1 0 1 0 1 0 0 0 0 1 0 1 1]
+ [1 1 0 1 0 1 0 1 0 0 0 1 1 0 1 1]]
+
+

@@ -1,0 +1,88 @@
+{'fixed': [[57943], [57942], [57431], [57430], [40989], [41588], [41532], [41501], [41556], [41044], [41020], [41076], [57941], [57940], [57429], [57428]], 'cycle': [[41400, 41272, 32824, 41144, 41276, 32828, 32956, 41404, 33084, 32952], [41332, 32884, 41204]]}
+*** fixed ***
+[57943]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 1 1 0 0 1 0 0 1 1 0 1]]
+
+[57942]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 1 0 0 1 0 0 1 1 0 1]]
+
+[57431]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 1]]
+
+[57430]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 1 0 0 0 0 0 1 1 0 1]]
+
+[40989]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0]]
+
+[41588]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 0 0 0 1 0 1 1 1 0 0]]
+
+[41532]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 0 0 1 0 0 0 0 1 0 1 1 1 1 0]]
+
+[41501]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 0 0 1 1 0 0 0 1 0 0 1 1 1 0]]
+
+[41556]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 0 0 0 1 0 0 1 1 0 0]]
+
+[41044]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0]]
+
+[41020]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0]]
+
+[41076]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 0 0 0 0 0 1 1 1 0 0]]
+
+[57941]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 1 0 0 0 1 0 0 1 1 0 1]]
+
+[57940]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 0 0 0 1 0 0 1 1 0 1]]
+
+[57429]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 1 0 0 0 0 0 0 1 1 0 1]]
+
+[57428]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 0 0 0 0 0 0 1 1 0 1]]
+
+
+*** cyclic ***
+[41400, 41272, 32824, 41144, 41276, 32828, 32956, 41404, 33084, 32952]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 0 0 1 0 0 1 0 0 1 1 1 0 1 0]
+ [0 1 0 0 1 0 0 0 0 0 1 1 1 0 1 0]
+ [0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 0]
+ [0 1 0 0 1 0 0 1 0 0 0 1 1 0 1 0]
+ [0 1 0 0 1 0 0 0 0 0 1 1 1 1 1 0]
+ [0 1 0 0 1 0 0 0 0 0 0 1 0 1 1 0]
+ [0 1 0 0 1 0 0 1 0 0 0 1 0 1 1 0]
+ [0 1 0 0 1 0 0 1 0 0 1 1 1 1 1 0]
+ [0 1 0 0 1 0 0 0 0 0 1 1 0 1 1 0]
+ [0 1 0 0 1 0 0 1 0 0 0 1 0 0 1 0]]
+
+[41332, 32884, 41204]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 0 1 0 0 0 0 0 1 1 1 1 0 0]
+ [0 1 1 0 1 0 0 0 0 0 0 1 0 1 0 0]
+ [0 1 1 0 1 0 0 1 0 0 0 1 1 1 0 0]]
+
+

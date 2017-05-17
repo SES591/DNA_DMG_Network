@@ -1,0 +1,28 @@
+{'fixed': [[22641], [22577], [23664], [23600]], 'cycle': [[22897, 6513, 6641, 23025]]}
+*** fixed ***
+[22641]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 1 0 1 0 0 1 0 0 1 0 0 0 1]]
+
+[22577]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 0 1 0 1 0 0 1 0 0 1 0 0 0 1]]
+
+[23664]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 1 1 0 0 0 0 1 0 0 1 0 0 0 1]]
+
+[23600]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 1 0 0 0 0 1 0 0 1 0 0 0 1]]
+
+
+*** cyclic ***
+[22897, 6513, 6641, 23025]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[0 1 1 1 0 1 0 0 1 0 1 1 0 0 0 1]
+ [0 1 1 1 0 1 0 0 1 0 1 1 0 0 0 0]
+ [0 1 1 1 0 1 0 1 1 0 1 1 0 0 0 0]
+ [0 1 1 1 0 1 0 1 1 0 1 1 0 0 0 1]]
+
+

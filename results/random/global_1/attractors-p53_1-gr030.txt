@@ -1,0 +1,13 @@
+{'fixed': [[62482], [62538]], 'cycle': []}
+*** fixed ***
+[62482]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 1 0 0 1 0 1 0 1 0 0 0 1 0 0 1]]
+
+[62538]
+['cyclinG', 'E2F1', 'cyclinE', 'Wip1', 'ATM', 'caspase', 'Bax', 'AKT', 'MdmX', 'PTEN', 'p21', 'Rb', 'Mdm2', 'Bcl2', 'p14ARF', 'p53']
+[[1 0 1 0 1 0 1 0 1 0 0 0 1 0 1 1]]
+
+
+*** cyclic ***
+
