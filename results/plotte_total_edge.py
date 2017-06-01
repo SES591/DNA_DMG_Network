@@ -43,6 +43,7 @@ def main(argv):
 
     plt.xticks(range(len(x)),x[idx],rotation='vertical')
     plt.xlim(xmin=0,xmax=len(x))
+    plt.ylim(ymin=0,ymax=50)
     plt.ylabel('Total TE',weight='bold',size='large')
     plt.xlabel('Network Type',weight='bold',size='large')
     plt.title('Total TE of p53 networks for h=%d'%(h),weight='bold',size='large')
